@@ -1,7 +1,7 @@
 # AdventOfCode
 My Advent of Code solutions
 
-If you actually try to run the code provided here, please note that:
+If you are actually going to try to run the code provided here, please note that:
 
 - The solution is always in one file, and should be compiled as one file using the C++ 17 compiler (in my case GNU C++ 17: g++ -static -O2 -std=gnu++17).
 
