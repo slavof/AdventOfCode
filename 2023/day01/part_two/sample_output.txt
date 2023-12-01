@@ -1,0 +1,13 @@
+Processed lines:
+
+two1nine 29 29
+eightwothree 83 112
+abcone2threexyz 13 125
+xtwone3four 24 149
+4nineeightseven2 42 191
+zoneight234 14 205
+7pqrstsixteen 76 281
+
+Result:281
+
+Operation took 50 microseconds.
