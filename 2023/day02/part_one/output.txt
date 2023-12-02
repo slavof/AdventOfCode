@@ -1,0 +1,106 @@
+Processed lines:
+
+Game 1: 4 blue (OK) 16 green (NOT OK) - LINE NOT OK
+Game 2: 15 green (NOT OK) - LINE NOT OK
+Game 3: 8 red (OK) 2 blue (OK) 3 green (OK) 10 blue (OK) 10 red (OK) 7 green (OK) 4 blue (OK) 7 red (OK) 8 red (OK) 6 green (OK) 13 blue (OK) 4 green (OK) 3 blue (OK) 10 red (OK) 7 blue (OK) 7 green (OK) 5 red (OK) - LINE OK
+Game 4: 13 green (OK) 14 blue (OK) 9 red (OK) 6 green (OK) 14 red (NOT OK) - LINE NOT OK
+Game 5: 2 green (OK) 1 red (OK) 8 blue (OK) 2 green (OK) 6 red (OK) 5 blue (OK) 9 red (OK) 2 green (OK) 3 green (OK) 8 red (OK) 6 blue (OK) 6 blue (OK) 5 red (OK) - LINE OK
+Game 6: 3 green (OK) 7 blue (OK) 5 red (OK) 3 green (OK) 6 red (OK) 11 blue (OK) 6 red (OK) 1 green (OK) - LINE OK
+Game 7: 8 red (OK) 4 green (OK) 11 blue (OK) 12 blue (OK) 1 green (OK) 5 red (OK) 6 red (OK) 1 green (OK) 5 blue (OK) 12 blue (OK) 2 green (OK) 2 red (OK) 4 blue (OK) 4 green (OK) 3 red (OK) 9 blue (OK) 4 green (OK) 8 red (OK) - LINE OK
+Game 8: 1 red (OK) 4 green (OK) 6 red (OK) 1 green (OK) 10 red (OK) 1 blue (OK) 2 green (OK) 4 green (OK) 3 red (OK) 1 blue (OK) 8 red (OK) - LINE OK
+Game 9: 9 blue (OK) 13 green (OK) 1 red (OK) 10 green (OK) 4 blue (OK) 4 red (OK) 3 red (OK) 4 blue (OK) 14 green (NOT OK) - LINE NOT OK
+Game 10: 2 blue (OK) 16 red (NOT OK) - LINE NOT OK
+Game 11: 7 green (OK) 11 red (OK) 12 blue (OK) 3 blue (OK) 6 green (OK) 6 red (OK) 10 blue (OK) 13 green (OK) 1 red (OK) 13 green (OK) 9 blue (OK) 2 blue (OK) 2 red (OK) 13 green (OK) 2 red (OK) 3 blue (OK) 15 green (NOT OK) - LINE NOT OK
+Game 12: 3 green (OK) 2 red (OK) 2 blue (OK) 7 green (OK) 5 blue (OK) 1 blue (OK) 1 red (OK) 3 green (OK) - LINE OK
+Game 13: 2 green (OK) 2 red (OK) 3 blue (OK) 3 blue (OK) 3 red (OK) 3 green (OK) 3 green (OK) 2 red (OK) 2 blue (OK) 3 red (OK) 3 green (OK) 2 green (OK) 3 red (OK) 1 blue (OK) - LINE OK
+Game 14: 4 green (OK) 9 red (OK) 11 green (OK) 10 red (OK) 12 blue (OK) 6 red (OK) 3 green (OK) 12 blue (OK) 5 green (OK) 4 red (OK) 4 blue (OK) 18 blue (NOT OK) - LINE NOT OK
+Game 15: 5 green (OK) 2 red (OK) 9 blue (OK) 18 green (NOT OK) - LINE NOT OK
+Game 16: 9 blue (OK) 11 green (OK) 8 green (OK) 2 blue (OK) 1 red (OK) 6 green (OK) 4 blue (OK) - LINE OK
+Game 17: 2 red (OK) 2 green (OK) 2 blue (OK) 7 blue (OK) 4 green (OK) 3 red (OK) 2 red (OK) 8 blue (OK) 1 green (OK) 2 red (OK) 6 blue (OK) 2 green (OK) 4 blue (OK) 3 red (OK) 4 green (OK) 5 red (OK) 6 blue (OK) - LINE OK
+Game 18: 6 green (OK) 7 red (OK) 3 blue (OK) 6 green (OK) 1 red (OK) 6 red (OK) 3 blue (OK) 5 green (OK) - LINE OK
+Game 19: 6 red (OK) 4 green (OK) 5 blue (OK) 2 red (OK) 4 blue (OK) 13 green (OK) 1 green (OK) 1 blue (OK) 2 red (OK) 4 green (OK) - LINE OK
+Game 20: 7 red (OK) 17 blue (NOT OK) - LINE NOT OK
+Game 21: 5 red (OK) 3 blue (OK) 7 green (OK) 1 blue (OK) 2 red (OK) 5 green (OK) 2 blue (OK) 8 green (OK) 3 red (OK) 3 blue (OK) 8 red (OK) 4 green (OK) 5 red (OK) 1 blue (OK) 3 green (OK) - LINE OK
+Game 22: 2 red (OK) 6 green (OK) 1 blue (OK) 3 red (OK) 3 green (OK) 1 blue (OK) 2 green (OK) 7 red (OK) 2 blue (OK) 5 green (OK) 1 red (OK) - LINE OK
+Game 23: 2 red (OK) 16 green (NOT OK) - LINE NOT OK
+Game 24: 7 red (OK) 1 blue (OK) 12 green (OK) 2 red (OK) 19 green (NOT OK) - LINE NOT OK
+Game 25: 2 blue (OK) 3 red (OK) 8 green (OK) 4 blue (OK) 2 red (OK) 9 green (OK) 2 red (OK) 7 blue (OK) - LINE OK
+Game 26: 17 red (NOT OK) - LINE NOT OK
+Game 27: 3 blue (OK) 17 green (NOT OK) - LINE NOT OK
+Game 28: 1 green (OK) 7 red (OK) 1 blue (OK) 8 green (OK) 12 red (OK) 1 blue (OK) 1 blue (OK) 9 red (OK) 1 green (OK) - LINE OK
+Game 29: 3 green (OK) 3 blue (OK) 2 red (OK) 3 green (OK) 2 red (OK) 1 blue (OK) 3 green (OK) 2 red (OK) 3 blue (OK) 3 blue (OK) 3 red (OK) 4 green (OK) - LINE OK
+Game 30: 3 red (OK) 8 blue (OK) 3 green (OK) 1 green (OK) 1 red (OK) 17 green (NOT OK) - LINE NOT OK
+Game 31: 11 green (OK) 11 blue (OK) 14 red (NOT OK) - LINE NOT OK
+Game 32: 9 red (OK) 2 green (OK) 7 green (OK) 4 blue (OK) 2 red (OK) 6 red (OK) 5 green (OK) 1 blue (OK) 4 red (OK) 4 blue (OK) 1 green (OK) 8 red (OK) 6 green (OK) - LINE OK
+Game 33: 6 blue (OK) 16 red (NOT OK) - LINE NOT OK
+Game 34: 2 red (OK) 2 green (OK) 4 blue (OK) 3 blue (OK) 2 green (OK) 1 green (OK) 1 red (OK) 2 blue (OK) 1 red (OK) 3 blue (OK) 3 green (OK) 2 green (OK) 8 blue (OK) 2 red (OK) 3 blue (OK) 1 red (OK) - LINE OK
+Game 35: 4 red (OK) 14 blue (OK) 2 green (OK) 1 green (OK) 15 blue (NOT OK) - LINE NOT OK
+Game 36: 4 blue (OK) 1 red (OK) 2 green (OK) 2 green (OK) 15 blue (NOT OK) - LINE NOT OK
+Game 37: 2 blue (OK) 1 green (OK) 5 red (OK) 2 blue (OK) 2 green (OK) 4 red (OK) 2 blue (OK) 5 red (OK) 8 green (OK) 3 green (OK) 2 blue (OK) 1 red (OK) 1 red (OK) 1 blue (OK) 5 green (OK) 2 blue (OK) 1 red (OK) 8 green (OK) - LINE OK
+Game 38: 2 blue (OK) 4 green (OK) 11 red (OK) 7 green (OK) 6 red (OK) 2 blue (OK) 1 green (OK) 3 red (OK) 1 blue (OK) 4 blue (OK) 4 green (OK) 4 red (OK) 2 red (OK) 5 blue (OK) 2 green (OK) - LINE OK
+Game 39: 7 green (OK) 7 blue (OK) 2 red (OK) 11 blue (OK) 4 green (OK) 8 red (OK) 10 red (OK) 4 green (OK) 1 blue (OK) 8 green (OK) 9 blue (OK) 9 green (OK) 4 red (OK) 1 green (OK) 8 blue (OK) - LINE OK
+Game 40: 1 green (OK) 13 blue (OK) 6 blue (OK) 7 red (OK) 8 red (OK) 1 green (OK) 13 blue (OK) 3 red (OK) 1 green (OK) 16 red (NOT OK) - LINE NOT OK
+Game 41: 5 green (OK) 2 blue (OK) 10 red (OK) 4 green (OK) 2 blue (OK) 5 red (OK) 6 green (OK) 9 red (OK) 1 blue (OK) 4 red (OK) 1 blue (OK) 1 red (OK) 3 green (OK) 2 blue (OK) 3 red (OK) - LINE OK
+Game 42: 17 green (NOT OK) - LINE NOT OK
+Game 43: 1 red (OK) 3 blue (OK) 1 green (OK) 3 blue (OK) 1 red (OK) 2 blue (OK) 1 green (OK) 2 green (OK) 1 blue (OK) 1 red (OK) 3 blue (OK) - LINE OK
+Game 44: 7 green (OK) 5 red (OK) 1 blue (OK) 6 green (OK) 1 blue (OK) 5 red (OK) 2 blue (OK) 6 green (OK) 3 green (OK) 2 red (OK) 4 green (OK) 6 red (OK) - LINE OK
+Game 45: 16 red (NOT OK) - LINE NOT OK
+Game 46: 8 blue (OK) 2 green (OK) 4 red (OK) 3 green (OK) 6 blue (OK) 1 green (OK) 8 blue (OK) 3 red (OK) 3 green (OK) 12 blue (OK) 1 red (OK) - LINE OK
+Game 47: 9 green (OK) 3 blue (OK) 1 green (OK) 1 blue (OK) 4 blue (OK) 9 green (OK) 6 red (OK) 8 green (OK) 4 blue (OK) 6 red (OK) 6 red (OK) 12 green (OK) 1 blue (OK) 4 blue (OK) 7 green (OK) - LINE OK
+Game 48: 11 green (OK) 4 blue (OK) 1 red (OK) 11 blue (OK) 8 red (OK) 9 green (OK) 4 blue (OK) 3 red (OK) 7 green (OK) 10 blue (OK) 2 green (OK) 9 red (OK) 8 green (OK) 2 blue (OK) 2 red (OK) - LINE OK
+Game 49: 8 green (OK) 1 blue (OK) 5 red (OK) 1 green (OK) 1 blue (OK) 3 green (OK) 4 red (OK) 2 blue (OK) 1 blue (OK) 7 green (OK) 1 red (OK) 1 blue (OK) 7 green (OK) 3 red (OK) 5 red (OK) 5 green (OK) - LINE OK
+Game 50: 2 green (OK) 2 red (OK) 4 blue (OK) 8 blue (OK) 2 green (OK) 7 red (OK) 4 blue (OK) 5 red (OK) 9 red (OK) 4 blue (OK) 5 blue (OK) 9 red (OK) 2 green (OK) 8 red (OK) 6 blue (OK) - LINE OK
+Game 51: 6 green (OK) 1 red (OK) 2 blue (OK) 2 red (OK) 4 blue (OK) 6 green (OK) 9 blue (OK) 4 green (OK) - LINE OK
+Game 52: 7 green (OK) 3 red (OK) 12 blue (OK) 8 blue (OK) 9 red (OK) 5 green (OK) 2 blue (OK) 10 green (OK) 8 red (OK) 12 red (OK) 5 green (OK) 3 blue (OK) 8 red (OK) 8 green (OK) 12 blue (OK) 2 green (OK) - LINE OK
+Game 53: 2 green (OK) 9 blue (OK) 5 red (OK) 6 red (OK) 3 green (OK) 5 red (OK) 2 green (OK) - LINE OK
+Game 54: 9 red (OK) 13 blue (OK) 1 green (OK) 9 red (OK) 16 blue (NOT OK) - LINE NOT OK
+Game 55: 1 red (OK) 2 blue (OK) 3 green (OK) 1 blue (OK) 1 red (OK) 5 blue (OK) 3 green (OK) 1 blue (OK) 3 green (OK) 5 blue (OK) - LINE OK
+Game 56: 1 green (OK) 4 red (OK) 1 blue (OK) 1 blue (OK) 2 red (OK) 13 green (OK) 5 blue (OK) 4 red (OK) 13 green (OK) 3 red (OK) 3 blue (OK) - LINE OK
+Game 57: 13 blue (OK) 2 red (OK) 7 green (OK) 3 green (OK) 4 red (OK) 14 blue (OK) 3 red (OK) 3 green (OK) 3 blue (OK) 7 blue (OK) 5 green (OK) 1 red (OK) - LINE OK
+Game 58: 6 red (OK) 1 blue (OK) 4 red (OK) 2 green (OK) 3 green (OK) 1 blue (OK) 7 green (OK) 1 red (OK) 6 red (OK) 13 green (OK) 1 blue (OK) 3 red (OK) 13 green (OK) 1 blue (OK) - LINE OK
+Game 59: 5 green (OK) 10 red (OK) 8 blue (OK) 7 red (OK) 3 green (OK) 2 blue (OK) 6 green (OK) 3 red (OK) 6 blue (OK) - LINE OK
+Game 60: 2 green (OK) 5 red (OK) 15 blue (NOT OK) - LINE NOT OK
+Game 61: 8 blue (OK) 3 green (OK) 4 red (OK) 1 red (OK) 10 blue (OK) 1 green (OK) 4 red (OK) 5 green (OK) 3 blue (OK) 3 red (OK) 8 blue (OK) 5 green (OK) - LINE OK
+Game 62: 19 blue (NOT OK) - LINE NOT OK
+Game 63: 13 red (NOT OK) - LINE NOT OK
+Game 64: 2 green (OK) 1 blue (OK) 5 red (OK) 2 red (OK) 5 green (OK) 6 red (OK) 4 green (OK) - LINE OK
+Game 65: 1 blue (OK) 7 green (OK) 1 red (OK) 7 red (OK) 1 green (OK) 1 blue (OK) 3 green (OK) 3 red (OK) 7 red (OK) 3 green (OK) 3 green (OK) 7 red (OK) 1 blue (OK) 4 green (OK) - LINE OK
+Game 66: 7 green (OK) 6 blue (OK) 8 red (OK) 4 green (OK) 9 red (OK) 3 blue (OK) 6 green (OK) 4 blue (OK) 5 blue (OK) 2 green (OK) 6 red (OK) 4 green (OK) 2 blue (OK) - LINE OK
+Game 67: 10 blue (OK) 17 green (NOT OK) - LINE NOT OK
+Game 68: 9 green (OK) 4 red (OK) 5 blue (OK) 11 blue (OK) 9 green (OK) 2 red (OK) 11 blue (OK) 2 red (OK) 6 green (OK) 2 green (OK) 6 red (OK) 3 blue (OK) 1 blue (OK) 6 green (OK) 4 red (OK) - LINE OK
+Game 69: 3 red (OK) 15 blue (NOT OK) - LINE NOT OK
+Game 70: 3 red (OK) 8 green (OK) 2 red (OK) 6 green (OK) 4 red (OK) 2 blue (OK) 2 green (OK) 8 red (OK) 1 green (OK) 2 blue (OK) 6 red (OK) 3 blue (OK) 4 green (OK) 13 green (OK) 8 red (OK) - LINE OK
+Game 71: 3 green (OK) 17 red (NOT OK) - LINE NOT OK
+Game 72: 1 red (OK) 17 blue (NOT OK) - LINE NOT OK
+Game 73: 1 blue (OK) 10 green (OK) 8 red (OK) 19 green (NOT OK) - LINE NOT OK
+Game 74: 17 blue (NOT OK) - LINE NOT OK
+Game 75: 10 green (OK) 5 blue (OK) 4 red (OK) 7 red (OK) 10 blue (OK) 7 green (OK) 7 blue (OK) 9 green (OK) 2 red (OK) - LINE OK
+Game 76: 13 green (OK) 16 red (NOT OK) - LINE NOT OK
+Game 77: 4 red (OK) 2 green (OK) 8 blue (OK) 3 green (OK) 2 red (OK) 5 blue (OK) 7 green (OK) 3 red (OK) - LINE OK
+Game 78: 12 green (OK) 8 red (OK) 8 blue (OK) 10 green (OK) 9 red (OK) 10 blue (OK) 16 blue (NOT OK) - LINE NOT OK
+Game 79: 4 green (OK) 2 red (OK) 15 red (NOT OK) - LINE NOT OK
+Game 80: 4 blue (OK) 1 green (OK) 13 red (NOT OK) - LINE NOT OK
+Game 81: 10 red (OK) 3 green (OK) 4 blue (OK) 2 red (OK) 5 green (OK) 16 blue (NOT OK) - LINE NOT OK
+Game 82: 1 green (OK) 9 blue (OK) 1 red (OK) 10 blue (OK) 1 red (OK) 1 green (OK) 1 green (OK) 7 blue (OK) 8 blue (OK) - LINE OK
+Game 83: 1 blue (OK) 5 red (OK) 2 blue (OK) 3 red (OK) 1 green (OK) 2 blue (OK) 1 red (OK) 2 red (OK) 1 blue (OK) 1 green (OK) 1 green (OK) 1 blue (OK) 2 red (OK) 1 green (OK) - LINE OK
+Game 84: 5 red (OK) 14 blue (OK) 2 green (OK) 6 blue (OK) 5 red (OK) 8 green (OK) 12 green (OK) 3 blue (OK) 5 red (OK) 2 red (OK) 10 green (OK) 9 green (OK) 14 blue (OK) - LINE OK
+Game 85: 2 blue (OK) 2 red (OK) 14 red (NOT OK) - LINE NOT OK
+Game 86: 1 blue (OK) 10 red (OK) 4 red (OK) 9 blue (OK) 18 red (NOT OK) - LINE NOT OK
+Game 87: 1 green (OK) 11 red (OK) 8 blue (OK) 1 green (OK) 11 red (OK) 2 blue (OK) 7 red (OK) 4 blue (OK) 6 blue (OK) 1 red (OK) 2 green (OK) 13 blue (OK) 2 green (OK) 6 blue (OK) 12 red (OK) 3 green (OK) - LINE OK
+Game 88: 2 blue (OK) 4 red (OK) 8 green (OK) 4 blue (OK) 7 red (OK) 3 red (OK) 10 green (OK) 4 blue (OK) 9 green (OK) 3 blue (OK) 5 red (OK) 4 red (OK) 6 blue (OK) 3 green (OK) - LINE OK
+Game 89: 6 red (OK) 10 green (OK) 15 green (NOT OK) - LINE NOT OK
+Game 90: 17 green (NOT OK) - LINE NOT OK
+Game 91: 3 blue (OK) 8 green (OK) 3 green (OK) 7 red (OK) 9 blue (OK) 12 blue (OK) 9 red (OK) 7 blue (OK) 4 green (OK) 1 green (OK) 7 red (OK) 1 blue (OK) - LINE OK
+Game 92: 11 blue (OK) 9 red (OK) 12 green (OK) 1 blue (OK) 14 red (NOT OK) - LINE NOT OK
+Game 93: 1 red (OK) 2 blue (OK) 3 blue (OK) 6 green (OK) 1 red (OK) 4 green (OK) 3 blue (OK) - LINE OK
+Game 94: 3 green (OK) 3 blue (OK) 1 red (OK) 3 blue (OK) 9 green (OK) 3 blue (OK) 10 green (OK) 3 red (OK) 10 green (OK) 6 blue (OK) 2 red (OK) 9 blue (OK) 14 green (NOT OK) - LINE NOT OK
+Game 95: 7 blue (OK) 10 green (OK) 3 blue (OK) 5 green (OK) 2 red (OK) 4 blue (OK) 10 green (OK) 12 red (OK) 6 green (OK) 2 red (OK) 6 blue (OK) - LINE OK
+Game 96: 2 blue (OK) 18 green (NOT OK) - LINE NOT OK
+Game 97: 14 blue (OK) 2 red (OK) 15 blue (NOT OK) - LINE NOT OK
+Game 98: 4 blue (OK) 9 red (OK) 10 red (OK) 1 green (OK) 11 blue (OK) 7 blue (OK) 1 red (OK) 1 red (OK) 6 blue (OK) 1 green (OK) - LINE OK
+Game 99: 7 red (OK) 6 green (OK) 2 blue (OK) 8 red (OK) 16 green (NOT OK) - LINE NOT OK
+Game 100: 1 red (OK) 1 green (OK) 9 blue (OK) 6 blue (OK) 4 green (OK) 3 red (OK) 4 red (OK) 2 green (OK) 3 green (OK) 2 red (OK) 11 blue (OK) 6 green (OK) 5 blue (OK) 1 red (OK) - LINE OK
+
+Result : 2685
+
+Operation took 946 microseconds.

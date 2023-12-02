@@ -1,0 +1,11 @@
+Processed lines:
+
+Game 1: 3 blue (OK) 4 red (OK) 1 red (OK) 2 green (OK) 6 blue (OK) 2 green (OK) - LINE OK
+Game 2: 1 blue (OK) 2 green (OK) 3 green (OK) 4 blue (OK) 1 red (OK) 1 green (OK) 1 blue (OK) - LINE OK
+Game 3: 8 green (OK) 6 blue (OK) 20 red (NOT OK) - LINE NOT OK
+Game 4: 1 green (OK) 3 red (OK) 6 blue (OK) 3 green (OK) 6 red (OK) 3 green (OK) 15 blue (NOT OK) - LINE NOT OK
+Game 5: 6 red (OK) 1 blue (OK) 3 green (OK) 2 blue (OK) 1 red (OK) 2 green (OK) - LINE OK
+
+Result : 8
+
+Operation took 59 microseconds.
