@@ -1,0 +1,16 @@
+Found numbers:
+
+467 (OK) 114 (NOT OK) 
+
+35 (OK) 633 (OK) 
+
+617 (OK) 
+58 (NOT OK) 
+592 (OK) 
+755 (OK) 
+
+664 (OK) 598 (OK) 
+
+Result : 4361
+
+Operation took 33 microseconds.
