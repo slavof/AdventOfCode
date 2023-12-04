@@ -1,0 +1,12 @@
+Processed cards:
+
+Card 1 : (17, 48, 83, 86) -> 8 points 
+Card 2 : (32, 61) -> 2 points 
+Card 3 : (1, 21) -> 2 points 
+Card 4 : (84) -> 1 points 
+Card 5 : () -> 0 points 
+Card 6 : () -> 0 points 
+
+Result : 13
+
+Operation took 120 microseconds.
