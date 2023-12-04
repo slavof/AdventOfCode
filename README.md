@@ -1,5 +1,5 @@
 # AdventOfCode
-My Advent of Code solutions
+My [Advent of Code](https://adventofcode.com/) solutions
 
 If you are actually going to try to run the code provided here, please note that:
 
