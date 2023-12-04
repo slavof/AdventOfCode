@@ -1,12 +1,12 @@
 Processed cards:
 
-Card 6 : 1 cards
-Card 6 : 2 cards
-Card 6 : 4 cards
-Card 6 : 8 cards
-Card 6 : 14 cards
+Card 1 : 1 cards
+Card 2 : 2 cards
+Card 3 : 4 cards
+Card 4 : 8 cards
+Card 5 : 14 cards
 Card 6 : 1 cards
 
 Result : 30
 
-Operation took 78 microseconds.
+Operation took 98 microseconds.

@@ -152,7 +152,7 @@ void solve()
 
     for (int i = 0; i < cardCounter; i++)
     {
-        cout << cardVec[0] << " : ";
+        cout << "Card " << i+1 << " : ";
         cout << numberOfCards[i] << " cards\n";
     }
 
@@ -191,4 +191,3 @@ int main()
 
     return 0;
 }
- 
