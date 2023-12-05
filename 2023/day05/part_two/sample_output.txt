@@ -1,0 +1,18 @@
+init seeds :	[79 ,14 ,55 ,13] 
+min value for seeds pair: (79, 14) is: 46
+min value for seeds pair: (55, 13) is: 46
+
+Result : 46
+
+Operation took 7685315 microseconds.
+
+
+init seeds :	[79 ,14 ,55 ,13] 
+min value for seeds pair: (79, 14) is: 80
+min value for seeds pair: (55, 13) is: 55
+
+Result : 55
+
+Operation took 3824761 microseconds.
+
+
