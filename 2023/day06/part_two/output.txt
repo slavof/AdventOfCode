@@ -1,0 +1,7 @@
+Time: 47707566
+Distance: 282107911471062
+
+Result: 33875953
+
+Operation took 102269 microseconds.
+ 

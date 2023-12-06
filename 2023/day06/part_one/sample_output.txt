@@ -1,0 +1,7 @@
+Time :		[7 ,15 ,30] 
+Distance :	[9 ,40 ,200] 
+
+Result : 288
+
+Operation took 59 microseconds.
+ 

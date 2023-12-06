@@ -1,0 +1,6 @@
+Time :		71530
+Distance :		940200
+Result : 71503
+
+Operation took 11820438 microseconds.
+ 
