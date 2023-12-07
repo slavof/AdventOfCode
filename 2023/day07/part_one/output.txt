@@ -1,0 +1,1006 @@
+Results : 
+
+23479 168 (High card) 168 
+234T8 527 (High card) 1222 
+234K5 246 (High card) 1960 
+23TQJ 612 (High card) 4408 
+23Q57 979 (High card) 9303 
+23A95 512 (High card) 12375 
+259K6 208 (High card) 13831 
+26Q3J 170 (High card) 15191 
+27Q8K 172 (High card) 16739 
+27QK9 806 (High card) 24799 
+289TK 824 (High card) 33863 
+2975T 670 (High card) 41903 
+29835 107 (High card) 43294 
+2K86J 1000 (High card) 57294 
+2A4K5 485 (High card) 64569 
+2A789 333 (High card) 69897 
+2AQ93 778 (High card) 83123 
+3245A 381 (High card) 89981 
+34K5A 734 (High card) 103927 
+34KQT 879 (High card) 121507 
+3645K 509 (High card) 132196 
+372AT 681 (High card) 147178 
+3754J 774 (High card) 164980 
+37829 609 (High card) 179596 
+384KQ 475 (High card) 191471 
+385JK 213 (High card) 197009 
+3J295 16 (High card) 197441 
+3J94T 929 (High card) 223453 
+3K724 918 (High card) 250075 
+3AQ52 64 (High card) 251995 
+423KJ 587 (High card) 270192 
+4278A 322 (High card) 280496 
+439KT 82 (High card) 283202 
+465K8 540 (High card) 301562 
+47T38 397 (High card) 315457 
+47K93 374 (High card) 328921 
+48396 6 (High card) 329143 
+4T57J 233 (High card) 337997 
+4T9JA 834 (High card) 370523 
+4TKAQ 904 (High card) 406683 
+4JK87 314 (High card) 419557 
+4JK9Q 557 (High card) 442951 
+4Q28K 794 (High card) 477093 
+4Q3A6 306 (High card) 490557 
+4Q872 993 (High card) 535242 
+4A93J 763 (High card) 570340 
+4AQK8 425 (High card) 590315 
+52K74 177 (High card) 598811 
+536K8 291 (High card) 613070 
+5394T 152 (High card) 620670 
+53JQ4 714 (High card) 657084 
+53Q2K 481 (High card) 682096 
+542TK 847 (High card) 726987 
+574T6 835 (High card) 772077 
+58437 26 (High card) 773507 
+5872Q 265 (High card) 788347 
+5892A 536 (High card) 818899 
+58A64 997 (High card) 876725 
+594A6 788 (High card) 923217 
+5J389 1 (High card) 923277 
+5Q7TK 895 (High card) 977872 
+5QJ86 848 (High card) 1030448 
+5QA89 643 (High card) 1070957 
+5K238 19 (High card) 1072173 
+5K743 690 (High card) 1117023 
+5A427 18 (High card) 1118211 
+6438A 180 (High card) 1130271 
+64T89 705 (High card) 1178211 
+64T9K 771 (High card) 1231410 
+64A57 559 (High card) 1270540 
+659Q2 329 (High card) 1293899 
+6724Q 694 (High card) 1343867 
+68T45 455 (High card) 1377082 
+68TAJ 976 (High card) 1449306 
+693KA 143 (High card) 1460031 
+6J45K 641 (High card) 1508747 
+6Q7T8 680 (High card) 1561107 
+6K3AJ 905 (High card) 1631697 
+6K5Q2 426 (High card) 1665351 
+6K5A9 583 (High card) 1711991 
+6KJ9Q 201 (High card) 1728272 
+724K9 737 (High card) 1788706 
+726T4 782 (High card) 1853612 
+73ATQ 53 (High card) 1858064 
+7453T 766 (High card) 1923174 
+746T8 826 (High card) 1994210 
+75Q69 353 (High card) 2024921 
+76945 522 (High card) 2070857 
+7865T 433 (High card) 2109394 
+78JQA 870 (High card) 2187694 
+7T5Q9 209 (High card) 2206713 
+7J3KA 427 (High card) 2245997 
+7KJT6 85 (High card) 2253902 
+7KJA8 510 (High card) 2301842 
+7AQT6 434 (High card) 2343072 
+8263J 157 (High card) 2358144 
+83T4K 41 (High card) 2362121 
+83KJT 376 (High card) 2398969 
+83AJT 38 (High card) 2402731 
+846AQ 611 (High card) 2463831 
+84A9T 572 (High card) 2521603 
+8539T 661 (High card) 2589025 
+859JA 995 (High card) 2691510 
+85T96 839 (High card) 2778766 
+85A3T 628 (High card) 2844706 
+8934K 981 (High card) 2948692 
+8QT46 260 (High card) 2976512 
+8K264 504 (High card) 3030944 
+8K2A7 554 (High card) 3091330 
+8K6A5 576 (High card) 3154690 
+8KJ63 507 (High card) 3210967 
+923T7 652 (High card) 3283991 
+93457 619 (High card) 3353938 
+93T5Q 598 (High card) 3422110 
+93AQ6 662 (High card) 3498240 
+94326 360 (High card) 3540000 
+946Q5 112 (High card) 3553104 
+954K2 326 (High card) 3591572 
+96JKT 102 (High card) 3603710 
+986T7 807 (High card) 3700550 
+9T57K 519 (High card) 3763349 
+9J452 862 (High card) 3868513 
+9JQ58 10 (High card) 3869743 
+9JQ76 403 (High card) 3919715 
+9JKTQ 972 (High card) 4041215 
+9Q48A 115 (High card) 4055705 
+9Q65K 623 (High card) 4134826 
+9K2AT 592 (High card) 4210602 
+9K73T 932 (High card) 4330830 
+9AQJ6 195 (High card) 4356180 
+T423A 27 (High card) 4359717 
+T4JA2 811 (High card) 4466769 
+T5396 948 (High card) 4592853 
+T695J 761 (High card) 4694827 
+T7Q6K 614 (High card) 4777717 
+T8725 910 (High card) 4901477 
+T892Q 844 (High card) 5017105 
+TQAKJ 668 (High card) 5109289 
+TK39A 506 (High card) 5179623 
+TK653 588 (High card) 5261943 
+TA4J8 871 (High card) 5384754 
+TA59Q 967 (High card) 5522068 
+J267K 30 (High card) 5526358 
+J35K4 261 (High card) 5563942 
+J3T7Q 620 (High card) 5653842 
+J59K6 336 (High card) 5702898 
+J5A49 616 (High card) 5793450 
+J6234 618 (High card) 5884914 
+J7693 755 (High card) 5997409 
+J892Q 679 (High card) 6099259 
+J9A38 909 (High card) 6236518 
+JT63A 430 (High card) 6301878 
+JQ268 396 (High card) 6362466 
+JQ369 365 (High card) 6418676 
+JQ925 511 (High card) 6497881 
+JQK82 238 (High card) 6535009 
+JQKA7 187 (High card) 6564368 
+JK2TQ 221 (High card) 6599286 
+JAQK4 709 (High card) 6712017 
+Q26T5 955 (High card) 6864817 
+Q28T6 488 (High card) 6943385 
+Q29A6 71 (High card) 6954887 
+Q3A9K 590 (High card) 7051057 
+Q453T 776 (High card) 7178321 
+Q4J36 256 (High card) 7220561 
+Q5248 148 (High card) 7245129 
+Q63JT 676 (High card) 7358021 
+Q7T43 677 (High card) 7471757 
+QJ36A 469 (High card) 7551018 
+QK54J 437 (High card) 7625308 
+QAK34 769 (High card) 7756807 
+K2689 57 (High card) 7766611 
+K5Q68 198 (High card) 7800865 
+K786T 501 (High card) 7888039 
+K7Q2J 712 (High card) 8012639 
+K92T7 15 (High card) 8015279 
+K98Q4 232 (High card) 8056343 
+KJ7Q3 812 (High card) 8200879 
+KQ246 963 (High card) 8373256 
+KQ4A7 101 (High card) 8391436 
+KQ8A9 768 (High card) 8530444 
+KQ96T 229 (High card) 8572122 
+KAJ32 987 (High card) 8752743 
+A2579 975 (High card) 8932143 
+A345J 664 (High card) 9054983 
+A37Q4 66 (High card) 9067259 
+A4928 90 (High card) 9084089 
+A5T8K 55 (High card) 9094429 
+A6JT5 931 (High card) 9270388 
+A78TK 446 (High card) 9355128 
+A84J7 644 (High card) 9478132 
+A95J3 106 (High card) 9498484 
+AJ596 487 (High card) 9592475 
+AJ672 693 (High card) 9726917 
+AJTK5 642 (High card) 9852107 
+AQTK6 936 (High card) 10035563 
+AK576 523 (High card) 10138594 
+AK893 415 (High card) 10220764 
+AKJ93 400 (High card) 10300364 
+AKQT3 964 (High card) 10493164 
+25QJQ 259 (One pair) 10545223 
+27664 517 (One pair) 10649657 
+279Q2 408 (One pair) 10732481 
+288Q9 410 (One pair) 10816121 
+29A98 659 (One pair) 10951216 
+2J55T 722 (One pair) 11099948 
+2Q3K3 69 (One pair) 11114231 
+2Q676 287 (One pair) 11173927 
+2Q7JQ 296 (One pair) 11235791 
+2Q82K 621 (One pair) 11366201 
+2Q883 970 (One pair) 11570871 
+2KT23 941 (One pair) 11770363 
+2A324 401 (One pair) 11855776 
+2AT62 473 (One pair) 11956998 
+2AK24 764 (One pair) 12121258 
+326K6 851 (One pair) 12305074 
+33A7J 60 (One pair) 12318094 
+35Q3A 351 (One pair) 12394612 
+365Q6 695 (One pair) 12546817 
+3676J 973 (One pair) 12760877 
+36KKJ 83 (One pair) 12779220 
+37686 565 (One pair) 12904650 
+38KJK 578 (One pair) 13033544 
+38AA5 63 (One pair) 13047656 
+3959Q 786 (One pair) 13224506 
+396Q3 780 (One pair) 13400786 
+39776 529 (One pair) 13520869 
+3983T 819 (One pair) 13707601 
+39AAJ 97 (One pair) 13729814 
+3J2J9 706 (One pair) 13892194 
+3J374 440 (One pair) 13993834 
+3J6T6 316 (One pair) 14067146 
+3JKKT 205 (One pair) 14114911 
+3JAJ2 631 (One pair) 14262565 
+42898 767 (One pair) 14442810 
+44TA9 733 (One pair) 14615798 
+44J29 244 (One pair) 14673626 
+44QK3 76 (One pair) 14691714 
+45922 276 (One pair) 14757678 
+4688T 54 (One pair) 14770638 
+46AJJ 957 (One pair) 15001275 
+47559 552 (One pair) 15134859 
+48945 655 (One pair) 15294024 
+48TT7 303 (One pair) 15367956 
+49383 22 (One pair) 15373346 
+4T634 486 (One pair) 15492902 
+4TAKA 416 (One pair) 15595654 
+4J55Q 120 (One pair) 15625414 
+4JJ8K 667 (One pair) 15791497 
+4JK42 405 (One pair) 15892747 
+4Q234 855 (One pair) 16107352 
+4QJQ9 720 (One pair) 16288792 
+4KK8J 346 (One pair) 16376330 
+52QJJ 991 (One pair) 16628044 
+539T5 9 (One pair) 16630339 
+544Q7 770 (One pair) 16827459 
+548Q5 829 (One pair) 17040512 
+5494Q 672 (One pair) 17213888 
+588AQ 248 (One pair) 17278120 
+58J3J 886 (One pair) 17508480 
+5T2JJ 124 (One pair) 17540844 
+5T79T 710 (One pair) 17726864 
+5TJKT 646 (One pair) 17896762 
+5J5K6 162 (One pair) 17939530 
+5JKQJ 934 (One pair) 18187040 
+5Q57K 500 (One pair) 18320040 
+5K5A6 269 (One pair) 18391863 
+5K6KJ 24 (One pair) 18398295 
+5A228 89 (One pair) 18422236 
+639K9 727 (One pair) 18618526 
+64374 452 (One pair) 18741018 
+646A9 988 (One pair) 19009754 
+66249 394 (One pair) 19117316 
+66Q74 84 (One pair) 19140332 
+67897 203 (One pair) 19196157 
+67JA6 546 (One pair) 19346853 
+683Q8 697 (One pair) 19539922 
+68K48 521 (One pair) 19684760 
+698K8 369 (One pair) 19787711 
+6J468 3 (One pair) 19788551 
+6J746 715 (One pair) 19989466 
+6JQ67 657 (One pair) 20174740 
+6Q44A 471 (One pair) 20308033 
+6Q685 178 (One pair) 20358585 
+6Q877 398 (One pair) 20472015 
+6A323 87 (One pair) 20496897 
+6A356 382 (One pair) 20606531 
+72QQ4 13 (One pair) 20610275 
+7327Q 938 (One pair) 20881357 
+74ATA 146 (One pair) 20923697 
+75376 169 (One pair) 20972876 
+754A4 805 (One pair) 21207936 
+75899 61 (One pair) 21225809 
+75A76 656 (One pair) 21418673 
+76862 432 (One pair) 21546113 
+76T7J 185 (One pair) 21600873 
+77495 919 (One pair) 21873816 
+778A3 795 (One pair) 22110726 
+78JQ8 36 (One pair) 22121490 
+78Q48 297 (One pair) 22210590 
+79228 665 (One pair) 22410755 
+799T2 196 (One pair) 22469947 
+7TT4Q 378 (One pair) 22584481 
+7J989 299 (One pair) 22675377 
+7JJKA 40 (One pair) 22687577 
+7JQQK 372 (One pair) 22801409 
+7JKAK 100 (One pair) 22832109 
+7QTJQ 545 (One pair) 22999969 
+825JJ 785 (One pair) 23242534 
+82J77 294 (One pair) 23333674 
+82KK6 497 (One pair) 23488241 
+837K7 266 (One pair) 23571233 
+83J73 754 (One pair) 23807235 
+83J84 98 (One pair) 23838007 
+8499Q 321 (One pair) 23939122 
+8535Q 912 (One pair) 24227314 
+86323 561 (One pair) 24405151 
+87J74 725 (One pair) 24635701 
+88K29 563 (One pair) 24815298 
+897K7 28 (One pair) 24824258 
+898Q7 328 (One pair) 24929546 
+898AT 542 (One pair) 25104070 
+8T79T 779 (One pair) 25355687 
+8T7TA 2 (One pair) 25356335 
+8Q48K 990 (One pair) 25678085 
+8Q58J 395 (One pair) 25806855 
+8AQA5 186 (One pair) 25867677 
+9474A 184 (One pair) 25928029 
+949QT 406 (One pair) 26061603 
+94KKQ 637 (One pair) 26271813 
+96J9A 149 (One pair) 26321132 
+97724 586 (One pair) 26515684 
+97935 224 (One pair) 26590276 
+99786 436 (One pair) 26735900 
+99JT7 340 (One pair) 26849800 
+99JAT 673 (One pair) 27075928 
+9TA33 264 (One pair) 27164896 
+9J86J 859 (One pair) 27455238 
+9J89K 411 (One pair) 27594567 
+9JJ36 319 (One pair) 27703027 
+9Q879 118 (One pair) 27743265 
+9Q985 547 (One pair) 27930339 
+9QQ2A 286 (One pair) 28028437 
+9K895 846 (One pair) 28319461 
+T27TJ 33 (One pair) 28330846 
+T344J 708 (One pair) 28575814 
+T3T25 438 (One pair) 28727800 
+T3A43 942 (One pair) 29055616 
+T5352 417 (One pair) 29201149 
+T6J33 176 (One pair) 29262749 
+T77QA 833 (One pair) 29555132 
+T97K9 914 (One pair) 29876860 
+T996Q 464 (One pair) 30040652 
+TT32K 280 (One pair) 30139772 
+TT65J 813 (One pair) 30428387 
+TT8A3 50 (One pair) 30446187 
+TT9A2 739 (One pair) 30710010 
+TJ37T 301 (One pair) 30817768 
+TJQ2T 477 (One pair) 30989011 
+TK424 935 (One pair) 31325611 
+TA33J 163 (One pair) 31384454 
+TAJA9 992 (One pair) 31743558 
+J2524 541 (One pair) 31939941 
+J2883 666 (One pair) 32182365 
+J355T 867 (One pair) 32498820 
+J377Q 289 (One pair) 32604594 
+J3J87 91 (One pair) 32637991 
+J3A7A 156 (One pair) 32695399 
+J3AJK 953 (One pair) 33047056 
+J4QKQ 12 (One pair) 33051496 
+J4KAA 742 (One pair) 33326778 
+J5AT5 823 (One pair) 33632934 
+J6959 959 (One pair) 33990641 
+J7297 731 (One pair) 34264035 
+J7793 442 (One pair) 34429785 
+J838T 922 (One pair) 34776457 
+J8662 283 (One pair) 34883148 
+J889A 356 (One pair) 35017716 
+J8A2A 317 (One pair) 35137859 
+JTQ2Q 407 (One pair) 35292519 
+JTK9T 916 (One pair) 35641515 
+JQK55 43 (One pair) 35657941 
+JK6J8 278 (One pair) 35764415 
+JKA44 950 (One pair) 36129215 
+JAKKT 450 (One pair) 36302465 
+Q266A 947 (One pair) 36668007 
+Q4AQT 435 (One pair) 36836352 
+Q577A 188 (One pair) 36909296 
+Q7336 302 (One pair) 37026774 
+Q88J4 460 (One pair) 37206174 
+Q88KJ 151 (One pair) 37265215 
+Q8KKJ 808 (One pair) 37581951 
+Q8KAK 849 (One pair) 37915608 
+Q979J 332 (One pair) 38046416 
+QT626 354 (One pair) 38186246 
+QJT99 200 (One pair) 38265446 
+QJQ26 88 (One pair) 38300382 
+QJAKA 312 (One pair) 38424558 
+QQ64T 775 (One pair) 38733783 
+QQ968 560 (One pair) 38957783 
+QQJ73 868 (One pair) 39305851 
+QK5K7 971 (One pair) 39696193 
+K24K9 121 (One pair) 39744956 
+K27K8 790 (One pair) 40064116 
+K2T72 874 (One pair) 40418086 
+K4Q2K 463 (One pair) 40606064 
+K553T 456 (One pair) 40791656 
+K5K76 126 (One pair) 40843064 
+K6TTQ 943 (One pair) 41228751 
+K85K2 543 (One pair) 41451381 
+K889Q 457 (One pair) 41639208 
+K8K5J 745 (One pair) 41946148 
+K9447 556 (One pair) 42175776 
+K958K 138 (One pair) 42232908 
+K9J94 985 (One pair) 42641683 
+KJ997 295 (One pair) 42764403 
+KQ49Q 582 (One pair) 43007097 
+KQT6Q 62 (One pair) 43033013 
+KA6AQ 204 (One pair) 43118489 
+A2AJQ 175 (One pair) 43191989 
+A3282 719 (One pair) 43494688 
+A58JA 123 (One pair) 43546594 
+A5T2T 894 (One pair) 43924756 
+A6K4A 93 (One pair) 43964188 
+A8K82 949 (One pair) 44367513 
+A92AJ 179 (One pair) 44443767 
+A9887 503 (One pair) 44658548 
+A99JQ 684 (One pair) 44951300 
+A9Q98 206 (One pair) 45039674 
+AJ4QJ 627 (One pair) 45309284 
+AJ855 888 (One pair) 45692012 
+AJ955 531 (One pair) 45921404 
+AQ7Q9 423 (One pair) 46104563 
+AK799 751 (One pair) 46430497 
+AK7AJ 711 (One pair) 46739782 
+2266A 94 (Two pair) 46780766 
+226Q6 34 (Two pair) 46795624 
+226K6 141 (Two pair) 46857382 
+227JJ 977 (Two pair) 47286285 
+22KKT 292 (Two pair) 47414765 
+22AAJ 845 (Two pair) 47787410 
+23244 348 (Two pair) 47941226 
+26424 889 (Two pair) 48335053 
+28525 392 (Two pair) 48509101 
+292A9 349 (Two pair) 48664406 
+2992J 622 (Two pair) 48941818 
+2T92T 262 (Two pair) 49058932 
+2K8K2 966 (Two pair) 49491700 
+2KKJ2 105 (Two pair) 49538845 
+32255 792 (Two pair) 49895245 
+32992 692 (Two pair) 50207337 
+32A32 514 (Two pair) 50439665 
+33878 983 (Two pair) 50884964 
+34TT4 883 (Two pair) 51285846 
+35735 952 (Two pair) 51719006 
+3636J 873 (Two pair) 52117094 
+363K6 281 (Two pair) 52245511 
+366Q3 99 (Two pair) 52290853 
+37357 613 (Two pair) 52572220 
+38282 549 (Two pair) 52824760 
+393T9 495 (Two pair) 53052955 
+39J39 159 (Two pair) 53126413 
+3JQ3Q 135 (Two pair) 53188918 
+3KAA3 375 (Two pair) 53362918 
+3A3TT 567 (Two pair) 53626573 
+42884 263 (Two pair) 53749131 
+42K2K 650 (Two pair) 54052681 
+44662 896 (Two pair) 54472009 
+448J8 748 (Two pair) 54822821 
+44TJT 836 (Two pair) 55215741 
+45745 4 (Two pair) 55217625 
+47466 800 (Two pair) 55595225 
+47724 498 (Two pair) 55830779 
+4J545 32 (Two pair) 55845947 
+4QQ42 814 (Two pair) 56232597 
+53Q3Q 821 (Two pair) 56623393 
+54225 228 (Two pair) 56732149 
+55JTT 933 (Two pair) 57178123 
+56456 462 (Two pair) 57399421 
+57752 502 (Two pair) 57640381 
+57T7T 860 (Two pair) 58054041 
+59656 726 (Two pair) 58403973 
+5TT53 35 (Two pair) 58420878 
+5JJAA 863 (Two pair) 58838570 
+5Q57Q 832 (Two pair) 59242090 
+5QKKQ 843 (Two pair) 59651788 
+5K445 887 (Two pair) 60083757 
+63638 757 (Two pair) 60453173 
+63A3A 44 (Two pair) 60474689 
+66557 320 (Two pair) 60631489 
+67376 956 (Two pair) 61100885 
+67699 388 (Two pair) 61291781 
+68484 235 (Two pair) 61407636 
+69898 342 (Two pair) 61576584 
+6J6J4 478 (Two pair) 61813194 
+6QQ6A 698 (Two pair) 62159402 
+6AA63 593 (Two pair) 62454123 
+72572 640 (Two pair) 62772843 
+76227 104 (Two pair) 62824739 
+76337 890 (Two pair) 63269739 
+76679 192 (Two pair) 63365931 
+773JJ 29 (Two pair) 63380489 
+778J8 109 (Two pair) 63435316 
+77969 674 (Two pair) 63775012 
+77J5J 389 (Two pair) 63971457 
+77Q8Q 95 (Two pair) 64019527 
+78448 251 (Two pair) 64146784 
+7J272 954 (Two pair) 64631416 
+7QT7Q 617 (Two pair) 64945469 
+7K22K 837 (Two pair) 65372339 
+7K7KT 173 (Two pair) 65460742 
+82782 989 (Two pair) 65967110 
+82826 344 (Two pair) 66143582 
+82833 878 (Two pair) 66594874 
+8448K 861 (Two pair) 67038289 
+8833Q 513 (Two pair) 67302997 
+884A4 161 (Two pair) 67386234 
+885J5 380 (Two pair) 67583074 
+88755 119 (Two pair) 67644835 
+88JKJ 412 (Two pair) 67859075 
+8TT68 315 (Two pair) 68023190 
+8Q84Q 445 (Two pair) 68255480 
+8K66K 330 (Two pair) 68428070 
+8A78A 223 (Two pair) 68544922 
+8A82A 111 (Two pair) 68603197 
+8AQA8 566 (Two pair) 68900913 
+922KK 980 (Two pair) 69417373 
+9449Q 629 (Two pair) 69749485 
+94889 724 (Two pair) 70132481 
+94JJ9 189 (Two pair) 70232651 
+9595J 691 (Two pair) 70599572 
+95977 14 (Two pair) 70607020 
+977T9 363 (Two pair) 70800499 
+97JJ9 131 (Two pair) 70870453 
+989KK 77 (Two pair) 70911648 
+99272 789 (Two pair) 71334552 
+99J88 466 (Two pair) 71584794 
+9Q33Q 574 (Two pair) 71893606 
+9QQKK 448 (Two pair) 72135078 
+T3J3J 75 (Two pair) 72175578 
+T422T 647 (Two pair) 72525605 
+T4994 428 (Two pair) 72757581 
+T4T47 649 (Two pair) 73109988 
+T5T56 216 (Two pair) 73227492 
+T6T26 625 (Two pair) 73568117 
+T8484 908 (Two pair) 74063885 
+TT33Q 872 (Two pair) 74540869 
+TT366 144 (Two pair) 74619781 
+TT767 56 (Two pair) 74650525 
+TT797 534 (Two pair) 74944225 
+TTJJA 738 (Two pair) 75350863 
+TJT88 267 (Two pair) 75498247 
+TQTQJ 367 (Two pair) 75701198 
+TQQ44 165 (Two pair) 75792608 
+TQKQK 183 (Two pair) 75894173 
+TKT33 946 (Two pair) 76420149 
+J229J 921 (Two pair) 76933146 
+J2332 250 (Two pair) 77072646 
+J2J77 309 (Two pair) 77245377 
+J2JTT 639 (Two pair) 77603217 
+J3838 225 (Two pair) 77729442 
+J5522 391 (Two pair) 77949184 
+J55J9 687 (Two pair) 78335965 
+J83J8 696 (Two pair) 78728509 
+J844J 597 (Two pair) 79065814 
+J88AA 154 (Two pair) 79152978 
+JT99T 828 (Two pair) 79622454 
+JJ992 17 (Two pair) 79632110 
+JQQ66 46 (Two pair) 79658284 
+JQQ8J 753 (Two pair) 80087494 
+JK22J 414 (Two pair) 80323888 
+JKKJ4 759 (Two pair) 80758036 
+JA33A 596 (Two pair) 81099544 
+JAKAK 999 (Two pair) 81672970 
+Q2277 525 (Two pair) 81974845 
+Q2Q28 25 (Two pair) 81989245 
+Q3993 323 (Two pair) 82175616 
+Q422Q 688 (Two pair) 82573280 
+Q4JQ4 458 (Two pair) 82838462 
+Q5Q99 339 (Two pair) 83035082 
+Q6464 465 (Two pair) 83305247 
+Q664Q 359 (Two pair) 83514185 
+Q6AAQ 74 (Two pair) 83557327 
+Q8989 318 (Two pair) 83743039 
+QQ2J2 341 (Two pair) 83942524 
+QQ449 958 (Two pair) 84503912 
+QQ677 923 (Two pair) 85045713 
+QAA99 584 (Two pair) 85389105 
+K22KQ 241 (Two pair) 85531054 
+K26K2 700 (Two pair) 85944054 
+K3377 760 (Two pair) 86393214 
+K45K4 752 (Two pair) 86838398 
+K4K46 841 (Two pair) 87337111 
+K58K5 47 (Two pair) 87365029 
+K656K 741 (Two pair) 87805924 
+K6T6T 461 (Two pair) 88080680 
+K7K97 5 (Two pair) 88083665 
+K8KJ8 830 (Two pair) 88580005 
+K996K 127 (Two pair) 88656078 
+KT2T2 777 (Two pair) 89122278 
+KT2KT 781 (Two pair) 89591659 
+KTK3T 551 (Two pair) 89923361 
+KJTJT 728 (Two pair) 90362345 
+KQK44 803 (Two pair) 90847357 
+KK525 182 (Two pair) 90957467 
+KK77A 220 (Two pair) 91090787 
+A344A 96 (Two pair) 91149059 
+A393A 413 (Two pair) 91400163 
+A477A 864 (Two pair) 91926339 
+A5757 132 (Two pair) 92006859 
+A6776 103 (Two pair) 92069792 
+A77TT 140 (Two pair) 92155472 
+ATA22 20 (Two pair) 92167732 
+ATA77 444 (Two pair) 92440348 
+AJ99A 81 (Two pair) 92490163 
+AJA77 300 (Two pair) 92674963 
+AK99K 600 (Two pair) 93045163 
+AKQKQ 678 (Two pair) 93464167 
+AKAK7 701 (Two pair) 93898086 
+AKAK8 116 (Two pair) 93970006 
+AA262 197 (Two pair) 94092343 
+23A33 703 (Three of a kind) 94529609 
+28227 882 (Three of a kind) 95079095 
+2T228 984 (Three of a kind) 95693111 
+2TTJT 383 (Three of a kind) 95932486 
+2J2K2 615 (Three of a kind) 96317476 
+2AA3A 325 (Three of a kind) 96521251 
+3222T 945 (Three of a kind) 97114711 
+33354 459 (Three of a kind) 97403422 
+333A7 194 (Three of a kind) 97525642 
+333AJ 926 (Three of a kind) 98109948 
+33635 92 (Three of a kind) 98168092 
+35444 827 (Three of a kind) 98691583 
+355A5 884 (Three of a kind) 99252039 
+37Q77 635 (Three of a kind) 99655264 
+38TTT 31 (Three of a kind) 99674980 
+39323 393 (Three of a kind) 99925321 
+3QQQ4 399 (Three of a kind) 100179883 
+3K337 499 (Three of a kind) 100498744 
+3K33J 345 (Three of a kind) 100719544 
+3KQKK 747 (Three of a kind) 101198371 
+3A433 334 (Three of a kind) 101412799 
+422K2 892 (Three of a kind) 101986355 
+42TTT 930 (Three of a kind) 102585275 
+4448Q 271 (Three of a kind) 102760070 
+44834 907 (Three of a kind) 103345992 
+44T47 853 (Three of a kind) 103897883 
+44J24 279 (Three of a kind) 104078675 
+454J4 594 (Three of a kind) 104464181 
+4844J 893 (Three of a kind) 105044631 
+488K8 153 (Three of a kind) 105144234 
+49A99 327 (Three of a kind) 105357438 
+4TTT8 978 (Three of a kind) 105996072 
+4J446 385 (Three of a kind) 106247862 
+4J777 245 (Three of a kind) 106408337 
+4J999 713 (Three of a kind) 106876065 
+4K244 533 (Three of a kind) 107226246 
+4K4J4 818 (Three of a kind) 107764490 
+5333T 968 (Three of a kind) 108402402 
+54484 569 (Three of a kind) 108777942 
+55459 838 (Three of a kind) 109331860 
+5552A 608 (Three of a kind) 109734356 
+55536 242 (Three of a kind) 109894802 
+555JT 147 (Three of a kind) 109992410 
+55JA5 128 (Three of a kind) 110077530 
+57888 732 (Three of a kind) 110565042 
+58355 491 (Three of a kind) 110892539 
+59575 164 (Three of a kind) 111002091 
+59J99 624 (Three of a kind) 111419547 
+5T3TT 199 (Three of a kind) 111552877 
+5TK55 37 (Three of a kind) 111577704 
+5A666 857 (Three of a kind) 112153608 
+64626 474 (Three of a kind) 112472610 
+64696 492 (Three of a kind) 112804218 
+6636J 113 (Three of a kind) 112880493 
+66683 654 (Three of a kind) 113322597 
+668T6 822 (Three of a kind) 113879091 
+66965 368 (Three of a kind) 114128595 
+66JQ6 735 (Three of a kind) 114627660 
+66A76 21 (Three of a kind) 114641940 
+68Q88 122 (Three of a kind) 114725022 
+6J676 940 (Three of a kind) 115366102 
+6K6A6 449 (Three of a kind) 115672769 
+72229 555 (Three of a kind) 116052389 
+72787 520 (Three of a kind) 116408589 
+7333J 137 (Three of a kind) 116502571 
+73433 526 (Three of a kind) 116863933 
+7727T 421 (Three of a kind) 117153581 
+7727Q 784 (Three of a kind) 117693757 
+77746 310 (Three of a kind) 117907657 
+77875 424 (Three of a kind) 118200641 
+77A7J 548 (Three of a kind) 118579857 
+78T77 875 (Three of a kind) 119186232 
+78QQQ 234 (Three of a kind) 119348628 
+79877 134 (Three of a kind) 119441758 
+7J757 876 (Three of a kind) 120051454 
+7J773 167 (Three of a kind) 120167853 
+7J787 59 (Three of a kind) 120209035 
+7A775 23 (Three of a kind) 120225112 
+7A779 494 (Three of a kind) 120570912 
+82522 793 (Three of a kind) 121126805 
+84838 387 (Three of a kind) 121398479 
+85K55 634 (Three of a kind) 121844181 
+86665 243 (Three of a kind) 122015253 
+86766 419 (Three of a kind) 122310648 
+868K8 630 (Three of a kind) 122755428 
+88485 626 (Three of a kind) 123198010 
+88829 577 (Three of a kind) 123606526 
+8884J 273 (Three of a kind) 123800083 
+888J3 255 (Three of a kind) 123981133 
+88J78 45 (Three of a kind) 124013128 
+89388 212 (Three of a kind) 124164072 
+8T88A 858 (Three of a kind) 124775826 
+8J882 258 (Three of a kind) 124960038 
+8QQQ5 357 (Three of a kind) 125215293 
+93353 928 (Three of a kind) 125879741 
+93J99 343 (Three of a kind) 126125672 
+94A44 358 (Three of a kind) 126382716 
+95299 236 (Three of a kind) 126552400 
+97888 881 (Three of a kind) 127186720 
+9929J 377 (Three of a kind) 127458537 
+99594 891 (Three of a kind) 128101839 
+999TQ 602 (Three of a kind) 128537085 
+99J79 658 (Three of a kind) 129013477 
+99JQ9 660 (Three of a kind) 129491977 
+99A96 544 (Three of a kind) 129886921 
+9TT8T 226 (Three of a kind) 130051223 
+9TJ99 869 (Three of a kind) 130683855 
+9J9K9 579 (Three of a kind) 131105946 
+9QQ3Q 253 (Three of a kind) 131290636 
+9K992 272 (Three of a kind) 131489468 
+9KKJK 564 (Three of a kind) 131902316 
+9A992 133 (Three of a kind) 131999805 
+T22J2 7 (Three of a kind) 132004943 
+T4T7T 467 (Three of a kind) 132348188 
+T5554 282 (Three of a kind) 132555740 
+T5558 252 (Three of a kind) 132741464 
+T8868 638 (Three of a kind) 133212308 
+T9996 418 (Three of a kind) 133521210 
+T999A 831 (Three of a kind) 134136150 
+TT3T6 746 (Three of a kind) 134688936 
+TT7JT 230 (Three of a kind) 134859596 
+TTT37 110 (Three of a kind) 134941326 
+TTT65 898 (Three of a kind) 135609438 
+TJ777 683 (Three of a kind) 136118273 
+TAA5A 125 (Three of a kind) 136211523 
+J6656 723 (Three of a kind) 136751604 
+J6662 386 (Three of a kind) 137040332 
+J888K 730 (Three of a kind) 137587102 
+J88T8 174 (Three of a kind) 137717602 
+J8JJ3 490 (Three of a kind) 138085592 
+J9333 717 (Three of a kind) 138624776 
+JAAAT 581 (Three of a kind) 139062269 
+Q2522 675 (Three of a kind) 139571219 
+Q74QQ 591 (Three of a kind) 140017424 
+Q8878 470 (Three of a kind) 140372744 
+Q99A9 439 (Three of a kind) 140705067 
+QTTTJ 899 (Three of a kind) 141386509 
+QJQ9Q 801 (Three of a kind) 141994468 
+QJQQ5 257 (Three of a kind) 142189788 
+QJQQ6 915 (Three of a kind) 142886103 
+QQ23Q 809 (Three of a kind) 143502561 
+QQ5Q6 607 (Three of a kind) 143965702 
+QQ84Q 355 (Three of a kind) 144236922 
+QAQ9Q 39 (Three of a kind) 144266757 
+QAAJA 335 (Three of a kind) 144523367 
+K3T33 606 (Three of a kind) 144988169 
+K65KK 441 (Three of a kind) 145326857 
+K66J6 686 (Three of a kind) 145854391 
+K66Q6 480 (Three of a kind) 146223991 
+K7444 575 (Three of a kind) 146667316 
+K77J7 52 (Three of a kind) 146707460 
+K8KK2 371 (Three of a kind) 146994243 
+K9994 927 (Three of a kind) 147711741 
+K9KKT 468 (Three of a kind) 148074441 
+KT7TT 974 (Three of a kind) 148830265 
+KJKTK 595 (Three of a kind) 149292580 
+KK5K2 645 (Three of a kind) 149794390 
+KK5K9 986 (Three of a kind) 150562484 
+KK96K 277 (Three of a kind) 150778544 
+KKKJ7 791 (Three of a kind) 151396315 
+KA444 787 (Three of a kind) 152011749 
+A44J4 210 (Three of a kind) 152176179 
+A4544 610 (Three of a kind) 152654419 
+A4777 897 (Three of a kind) 153358564 
+A5556 951 (Three of a kind) 154106050 
+A6TAA 422 (Three of a kind) 154438164 
+A8AJA 721 (Three of a kind) 155006312 
+A9AKA 483 (Three of a kind) 155387399 
+ATTT8 632 (Three of a kind) 155886679 
+ATQQQ 150 (Three of a kind) 156005329 
+AJ999 815 (Three of a kind) 156650809 
+AJTTT 810 (Three of a kind) 157293139 
+AJAA2 352 (Three of a kind) 157572627 
+AK7AA 903 (Three of a kind) 158290512 
+AKKK2 744 (Three of a kind) 158882736 
+AAAQK 215 (Three of a kind) 159054091 
+22255 783 (Full house) 159678925 
+222TT 404 (Full house) 160001721 
+22772 298 (Full house) 160240121 
+22J2J 290 (Full house) 160472411 
+22QQ2 772 (Full house) 161091555 
+26662 275 (Full house) 161312380 
+28828 671 (Full house) 161851864 
+2A2A2 482 (Full house) 162239874 
+2AAA2 917 (Full house) 162978976 
+33223 798 (Full house) 163622962 
+33777 653 (Full house) 164150586 
+33AAA 338 (Full house) 164424028 
+35533 906 (Full house) 165157888 
+35535 850 (Full house) 165847238 
+3T3T3 802 (Full house) 166498462 
+3TTT3 944 (Full house) 167265934 
+3Q3Q3 108 (Full house) 167353846 
+3KK3K 994 (Full house) 168163956 
+43443 538 (Full house) 168602964 
+44JJ4 476 (Full house) 168991856 
+44QQ4 825 (Full house) 169666706 
+44A4A 80 (Full house) 169732226 
+54544 211 (Full house) 169905246 
+54554 856 (Full house) 170608022 
+55TTT 729 (Full house) 171207260 
+5Q5Q5 191 (Full house) 171364453 
+63663 550 (Full house) 171817653 
+64646 633 (Full house) 172339878 
+66555 965 (Full house) 173136968 
+66655 911 (Full house) 173890365 
+666TT 840 (Full house) 174585885 
+66868 885 (Full house) 175319550 
+66A6A 568 (Full house) 175790990 
+6JJ66 669 (Full house) 176346929 
+6Q66Q 454 (Full house) 176724657 
+6AA6A 384 (Full house) 177044529 
+73337 562 (Full house) 177513237 
+74477 402 (Full house) 177848907 
+76667 193 (Full house) 178010255 
+77676 219 (Full house) 178193558 
+777JJ 237 (Full house) 178392164 
+77878 589 (Full house) 178886335 
+77A7A 247 (Full house) 179093815 
+84448 877 (Full house) 179831372 
+88333 181 (Full house) 179983774 
+88448 558 (Full house) 180454168 
+88555 797 (Full house) 181126836 
+88833 585 (Full house) 181621161 
+88T8T 902 (Full house) 182384253 
+88TTT 765 (Full house) 183032208 
+88J8J 484 (Full house) 183442640 
+89889 913 (Full house) 184217777 
+89899 305 (Full house) 184477027 
+8K88K 570 (Full house) 184962097 
+8A8AA 68 (Full house) 185020033 
+92299 603 (Full house) 185534392 
+93993 239 (Full house) 185738498 
+94494 685 (Full house) 186324173 
+95955 337 (Full house) 186612645 
+99696 516 (Full house) 187054857 
+99977 580 (Full house) 187552497 
+99TT9 284 (Full house) 187796453 
+99Q9Q 451 (Full house) 188184313 
+9TT9T 409 (Full house) 188536462 
+9QQ9Q 202 (Full house) 188710586 
+9A99A 605 (Full house) 189232701 
+9A9AA 373 (Full house) 189554973 
+T6TT6 73 (Full house) 189618118 
+TJTJT 158 (Full house) 189754946 
+J9J99 663 (Full house) 190329767 
+JJ333 804 (Full house) 191027639 
+JJ555 366 (Full house) 191345693 
+JJ66J 648 (Full house) 191909453 
+JJ8J8 682 (Full house) 192503475 
+JJQJQ 171 (Full house) 192652587 
+JQJQQ 218 (Full house) 192842901 
+JKKJK 227 (Full house) 193041299 
+JAAJA 308 (Full house) 193310799 
+Q33QQ 508 (Full house) 193755807 
+Q5Q5Q 489 (Full house) 194184660 
+Q88Q8 142 (Full house) 194309336 
+Q8Q8Q 762 (Full house) 194979134 
+QTQTT 429 (Full house) 195356654 
+QQ2Q2 880 (Full house) 196131934 
+QQQ44 130 (Full house) 196246594 
+QQQ77 86 (Full house) 196322532 
+QQQTT 361 (Full house) 196641656 
+QQQAA 58 (Full house) 196692986 
+QKKKQ 537 (Full house) 197168768 
+K2K2K 535 (Full house) 197643313 
+K33K3 493 (Full house) 198081097 
+K44K4 982 (Full house) 198954095 
+K7KK7 70 (Full house) 199016395 
+K999K 758 (Full house) 199691773 
+KTTKT 79 (Full house) 199762241 
+KK4K4 599 (Full house) 200297148 
+KK99K 51 (Full house) 200342742 
+A7AA7 702 (Full house) 200971032 
+ATTAT 145 (Full house) 201100952 
+AKKAK 528 (Full house) 201574568 
+AATAT 866 (Full house) 202352236 
+2222Q 532 (Four of a kind) 202830504 
+22922 139 (Four of a kind) 202955604 
+24222 716 (Four of a kind) 203600720 
+2J222 364 (Four of a kind) 203929048 
+33233 553 (Four of a kind) 204428407 
+33335 207 (Four of a kind) 204615535 
+3333A 307 (Four of a kind) 204893370 
+33363 268 (Four of a kind) 205136178 
+33373 155 (Four of a kind) 205276763 
+333J3 270 (Four of a kind) 205521923 
+38888 636 (Four of a kind) 206100047 
+39999 842 (Four of a kind) 206866267 
+3K333 925 (Four of a kind) 207708942 
+43444 756 (Four of a kind) 208398414 
+4444J 998 (Four of a kind) 209309588 
+4AAAA 704 (Four of a kind) 209953044 
+55552 900 (Four of a kind) 210776544 
+55556 65 (Four of a kind) 210836084 
+55558 961 (Four of a kind) 211717321 
+555Q5 496 (Four of a kind) 212172649 
+55755 240 (Four of a kind) 212393209 
+55955 293 (Four of a kind) 212662769 
+55J55 431 (Four of a kind) 213059720 
+55K55 8 (Four of a kind) 213067096 
+5KKKK 865 (Four of a kind) 213865491 
+64666 160 (Four of a kind) 214013331 
+65666 117 (Four of a kind) 214121556 
+66266 42 (Four of a kind) 214160448 
+66366 166 (Four of a kind) 214314330 
+66669 969 (Four of a kind) 215213562 
+6666T 350 (Four of a kind) 215538712 
+66K66 854 (Four of a kind) 216332932 
+68666 820 (Four of a kind) 217096352 
+69999 78 (Four of a kind) 217169048 
+6QQQQ 743 (Four of a kind) 217862267 
+74444 939 (Four of a kind) 218739293 
+75777 347 (Four of a kind) 219063738 
+77747 249 (Four of a kind) 219296802 
+77776 231 (Four of a kind) 219513249 
+7777T 799 (Four of a kind) 220262711 
+7777J 447 (Four of a kind) 220682444 
+7777K 601 (Four of a kind) 221247384 
+77977 651 (Four of a kind) 221859975 
+79999 924 (Four of a kind) 222730383 
+85888 515 (Four of a kind) 223216028 
+87777 749 (Four of a kind) 223923084 
+88887 311 (Four of a kind) 224216979 
+8888J 214 (Four of a kind) 224419423 
+8TTTT 996 (Four of a kind) 225362635 
+8Q888 370 (Four of a kind) 225713395 
+8K888 129 (Four of a kind) 225835816 
+8A888 699 (Four of a kind) 226499866 
+98888 114 (Four of a kind) 226608280 
+99499 274 (Four of a kind) 226869128 
+99899 254 (Four of a kind) 227111190 
+99992 313 (Four of a kind) 227409792 
+9999Q 707 (Four of a kind) 228084977 
+999K9 750 (Four of a kind) 228801977 
+99J99 539 (Four of a kind) 229317800 
+99A99 72 (Four of a kind) 229386776 
+9T999 960 (Four of a kind) 230307416 
+9KKKK 479 (Four of a kind) 230767256 
+T3333 937 (Four of a kind) 231667713 
+T4444 472 (Four of a kind) 232121777 
+T5555 379 (Four of a kind) 232486754 
+TT2TT 962 (Four of a kind) 233414122 
+TTT3T 190 (Four of a kind) 233597472 
+TTTT4 852 (Four of a kind) 234420504 
+TTTT6 390 (Four of a kind) 234797634 
+TTTQT 718 (Four of a kind) 235492658 
+TTTAT 304 (Four of a kind) 235787234 
+TTJTT 324 (Four of a kind) 236101514 
+TKKKK 505 (Four of a kind) 236591869 
+J6666 773 (Four of a kind) 237343225 
+JJ2JJ 920 (Four of a kind) 238238385 
+JJJJ8 217 (Four of a kind) 238449743 
+JQQQQ 331 (Four of a kind) 238772468 
+Q3333 901 (Four of a kind) 239651844 
+Q7777 11 (Four of a kind) 239662591 
+QQ2QQ 796 (Four of a kind) 240441079 
+QQQ5Q 222 (Four of a kind) 240658417 
+QQQQ3 67 (Four of a kind) 240724077 
+QQQQ4 573 (Four of a kind) 241286190 
+K7KKK 689 (Four of a kind) 241962788 
+KK2KK 48 (Four of a kind) 242009972 
+KKKJK 816 (Four of a kind) 242812916 
+KKKK3 518 (Four of a kind) 243323146 
+KKKK4 524 (Four of a kind) 243839810 
+KKKK6 740 (Four of a kind) 244570190 
+KKKK8 443 (Four of a kind) 245007874 
+KKKKQ 817 (Four of a kind) 245815887 
+KAAAA 288 (Four of a kind) 246101007 
+A5AAA 285 (Four of a kind) 246383442 
+A7777 49 (Four of a kind) 246432050 
+AQQQQ 362 (Four of a kind) 246791516 
+AA8AA 136 (Four of a kind) 246926700 
+AAA7A 530 (Four of a kind) 247454050 
+AAAA2 420 (Four of a kind) 247872370 
+AAAA9 736 (Four of a kind) 248606162 
+AAAAJ 604 (Four of a kind) 249208954 
+AAAAQ 453 (Four of a kind) 249661501 
+JJJJJ 571 (Five of a kind) 250232501 
+
+Total winnings : 250232501
+
+Operation took 11449281 microseconds.

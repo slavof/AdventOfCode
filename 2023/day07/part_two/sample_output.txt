@@ -1,0 +1,11 @@
+Results : 
+
+32T3K 765 (One pair) 765 
+KK677 28 (Two pair) 821 
+T55J5 684 (Four of a kind) 2873 
+QQQJA 483 (Four of a kind) 4805 
+KTJJT 220 (Four of a kind) 5905 
+
+Total winnings : 5905
+
+Operation took 57 microseconds.
